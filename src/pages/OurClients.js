@@ -3,7 +3,7 @@ import React from 'react'
 const OurClients = () => {
   return (
     <div className='container'>
-      OurClients
+      Our Clients
     </div>
   )
 }

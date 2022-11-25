@@ -14,6 +14,8 @@ a.nav-link{
     font-family:'Bebas Neue', cursive;
     margin-left: 0.5rem;
     margin-right: 0.5rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
 }
 
 .navbar-toggler{
