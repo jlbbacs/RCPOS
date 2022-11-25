@@ -2,8 +2,8 @@ import React from 'react'
 
 const OurClients = () => {
   return (
-    <div>
-      <>OurClients</>
+    <div className='container'>
+      OurClients
     </div>
   )
 }
