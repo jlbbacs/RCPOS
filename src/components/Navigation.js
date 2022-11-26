@@ -7,7 +7,7 @@ import '../css/nav.css';
 function Navigation() {
   return (
     <div  className='container'>
-      <nav class="navbar fixed-top navbar-expand-lg  ">
+      <nav class="navbar fixed-top navbar-expand-lg shadow-lg ">
   <div class="container">
     <Link class="navbar-brand" to="/">RCPOS LOGO</Link>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
