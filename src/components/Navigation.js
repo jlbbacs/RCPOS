@@ -7,7 +7,7 @@ import '../css/nav.css';
 function Navigation() {
   return (
     <div  className='container'>
-      <nav class="navbar navbar-expand-lg bg-white ">
+      <nav class="navbar sticky-top navbar-expand-lg bg-white ">
   <div class="container-fluid">
     <Link class="navbar-brand" to="/">RCPOS LOGO</Link>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -15,10 +15,10 @@ function Navigation() {
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
-      <Link className="nav-link"  to ="/">Home</Link>
-      <Link className="nav-link"  to ="About">About Us</Link>
-      <Link className="nav-link"  to ="ContactUs">Contact</Link>
-      <Link className="nav-link"  to ="Features">Features</Link>
+      <Link className="nav-link"  to ="/">HOME</Link>
+      <Link className="nav-link"  to ="About">ABOUT US</Link>
+      <Link className="nav-link"  to ="ContactUs">CONTACT</Link>
+      <Link className="nav-link"  to ="Features">FEATURES</Link>
      
      
        
