@@ -8,17 +8,17 @@ const Home = () => {
  
     <div className=''>
    
-   <div className='conrtainer-fluid '>
+   <div className='conrtainer'>
       <div class="card mb-3 mt-5">
-      <img src="https://img.techplanet.today/800x,jpeg/https://techplanet.today/storage/posts/2022/11/10/50/eJzP8F4cHl5Tp11KFydGWwSfGg2mwAwkXDvtta4Y.jpg"  class="card-img-top "  alt="..." fluid />
+      <img src="https://www.investsmall.co/wp-content/uploads/2021/09/POS-agencies-in-Nigeria.jpg"  class="card-img-top "  alt="..." />
       <div class="card-body">
-        <h5 class="card-title fw-bold mt-5">RCPOS PROVIDER, from order placement to payment and everything in between.</h5>
-        <p class="card-text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa.</p>
+        <h5 class="card-title fw-bold mt-3">RCPOS PROVIDER, from order placement to payment and everything in between.</h5>
+        <p class="card-text mt-3">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa.</p>
       </div>
       </div>
     </div>
 
-    <div className='container '>
+    <div className='container'>
     <div class="card mb-3 mt-5" style={{maxwidth:540}}>
   <div class="row g-0">
     <div class="col-md-6">
@@ -26,7 +26,7 @@ const Home = () => {
     </div>
     <div class="col-md-6 ">
       <div class="card-body mt-5">
-        <h5 class="card-title fw-bold">Get Paid Faster</h5>
+        <h5 class="card-title fw-bold ">Get Paid Faster</h5>
         <p class="card-text">Never lose a sale because of the limited payment options. With Tagrain’s ability to collect payments in cash, cards, loyalty points, and gift cards, make sure your customer has got enough options to pay you.</p>
         <br></br>
         <p class="card-text">Never lose a sale because of the limited payment options. With Tagrain’s ability to collect payments in cash, cards, loyalty points, and gift cards, make sure your </p>
