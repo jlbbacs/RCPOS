@@ -53,8 +53,7 @@ const Home = () => {
       <div class="card-body mt-5">
         <h5 class="card-title fw-bold ">Flexible Pricing</h5>
         <p class="card-text">Never lose a sale because of the limited payment options. With Tagrain’s ability to collect payments in cash, cards, loyalty points, and gift cards, make sure your customer has got enough options to pay you.</p>
-        <br></br>
-        <p class="card-text">Never lose a sale because of the limited payment options. With Tagrain’s ability to collect payments in cash, cards, loyalty points, and gift cards, make sure your </p>
+        
       </div>
     </div>
     <div class="col-md-6">
