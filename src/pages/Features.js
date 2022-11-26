@@ -1,9 +1,10 @@
 import React from 'react'
+import '../css/features.css'
 
 const Features = () => {
   return (
     <div className='container'>
-      Features
+     <h1 className='features-text'>Features</h1> 
     </div>
   )
 }
