@@ -23,7 +23,12 @@ const ContactUs = () => {
             <input type="email" class="form-control mb-3" id="exampleFormControlInput1" placeholder="Address"/>
             <input type="email" class="form-control mb-3" id="exampleFormControlInput1" placeholder="Email"/>
             <input type="email" class="form-control mb-3" id="exampleFormControlInput1" placeholder="Contact number"/>
+            <div class="mb-3">
+
+      <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Message"></textarea>
+</div>    
       </div>
+      
     </div>
   </div>
 </div>
