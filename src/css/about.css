@@ -3,3 +3,12 @@
     margin-top: 10rem;
 }
 
+.accordion-body{
+   background-color: rgb(241, 244, 250);
+}
+
+#mission-card{
+    width: 30rem!important;
+    background-color: rgb(137, 138, 140);
+    
+}
