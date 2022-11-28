@@ -27,7 +27,7 @@ const AboutUs = () => {
 </div>
 <div class="container mt-5">
 <div class="accordion" id="accordionExample">
-  <div class="accordion-item mb-2">
+  <div class="accordion-item mb-3">
     <h2 class="accordion-header" id="headingOne">
       <button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
       WHO WE ARE
@@ -39,7 +39,7 @@ const AboutUs = () => {
       </div>
     </div>
   </div>
-  <div class="accordion-item mb-2">
+  <div class="accordion-item mb-3">
     <h2 class="accordion-header" id="headingTwo">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
       WHAT WE DO
@@ -51,7 +51,7 @@ const AboutUs = () => {
       </div>
     </div>
   </div>
-  <div class="accordion-item mb-2">
+  <div class="accordion-item mb-3">
     <h2 class="accordion-header" id="headingThree">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
       WHE ARE DIFFERENT FORM THE REST
