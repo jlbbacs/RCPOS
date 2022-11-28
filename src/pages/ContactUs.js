@@ -9,12 +9,12 @@ const ContactUs = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    
+
    <div class="container">
     <h1 className='contact-text mb-2'>Let’s start a conversation</h1>
      <h4 className='reach-text'>Reach out to us and we’ll be in touch as soon as possible.</h4> 
     
-     <div class="card mb-3" style={{maxwidth:540}}>
+     <div class="card mb-3 shadow" style={{maxwidth:540}}>
   <div class="row g-0">
     <div class="col-md-6">
       <img src="https://lscdn.blob.core.windows.net/review-images/11056251_133128141129475957_images.jpeg" class="img-fluid rounded-start" alt="..."/>
@@ -34,10 +34,9 @@ const ContactUs = () => {
     </div>
   </div>
 </div>
- 
+ </div>
 
 
-</div>
   )
 }
 

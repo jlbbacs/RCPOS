@@ -2,6 +2,7 @@
 
 .card{
     margin-top: 2rem;
+   
 }
 .form-control{
     text-align: left;
@@ -14,3 +15,4 @@
 h1 , h4{
     font-family: 'Montserrat', sans-serif;
 }
+
