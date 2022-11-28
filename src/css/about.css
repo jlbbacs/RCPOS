@@ -10,5 +10,8 @@
 #mission-card{
     width: 30rem!important;
     background-color: rgb(137, 138, 140);
-    
+
+}
+#about-what-text{
+    margin-top: -3rem;
 }
