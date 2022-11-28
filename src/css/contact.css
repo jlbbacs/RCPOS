@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Fredoka+One&family=Monoton&family=Montserrat&family=Poppins:ital,wght@0,400;1,800&family=Raleway:wght@500&family=Roboto:wght@900&family=Rubik+Glitch&family=Yesteryear&display=swap');
+
 .card{
     margin-top: 2rem;
 }
@@ -6,4 +8,9 @@
 }
 .contact-text{
     margin-top: 8rem;
+    color: rgb(109, 172, 211);
+}
+
+h1 , h4{
+    font-family: 'Montserrat', sans-serif;
 }

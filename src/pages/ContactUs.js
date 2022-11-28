@@ -11,7 +11,7 @@ const ContactUs = () => {
   return (
     
    <div class="container">
-    <h1 className='contact-text'>Let’s start a conversation</h1>
+    <h1 className='contact-text mb-2'>Let’s start a conversation</h1>
      <h4 className='reach-text'>Reach out to us and we’ll be in touch as soon as possible.</h4> 
     
      <div class="card mb-3" style={{maxwidth:540}}>
