@@ -19,7 +19,7 @@ const AboutUs = () => {
   <div class="container mt-5">
 
   <div class="card-body">
-    <h4 class="card-title">What we do</h4>
+    <h4 class="card-title fw-bold">What we do</h4>
     <p class="card-text ">RCPOS innovative point of sale solution drives customer acquisition, increase average order size, and makes the dream of long-lasting, loyal customer relationships a reality.</p>
    <p class="card-text">At Tagrain we set our ambition to have a positive impact on the lives of millions of small-scale retailers by increasing their income through operational efficiency.</p>
   </div>
