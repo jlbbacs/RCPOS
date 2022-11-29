@@ -1,6 +1,10 @@
 import React,{useEffect} from 'react'
 import '../css/features.css'
 import { Tabtitle } from '../components/GeneralFunctions'
+import  Carousel  from '../components/Carousel'
+import { Link } from 'react-router-dom'
+
+
 
 const Features = () => {
   Tabtitle('Features | RCPOS');
@@ -8,9 +12,12 @@ const Features = () => {
     window.scrollTo(0, 0);
   }, []);
   return (
-    <div className='container'>
+
+    <>
      <h1 className='features-text'>Features</h1> 
-    </div>
+     <div className="col-sm-12">{<Carousel/>}</div>
+  
+     </>
   )
 }
 
