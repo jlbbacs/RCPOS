@@ -28,9 +28,14 @@ const ContactUs = () => {
             <div class="mb-3">
 
       <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Message"></textarea>
-</div>    
+      </div>    
       </div>
-      
+
+      <div className='contact-button'>
+      <button type="button" class="btn btn-outline-secondary">Submit</button>
+      <button type="button" class="btn btn-outline-secondary">Cancel</button>
+      </div>
+
     </div>
   </div>
 </div>
