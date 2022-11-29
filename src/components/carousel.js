@@ -5,8 +5,8 @@ import '../css/carousel.css'
 const carousel = () => {
   return (
     <div className='container'>
-       <Carousel fade>
-      <Carousel.Item>
+       <Carousel fade >
+      <Carousel.Item >
         <img
           className="d-block w-100"
           src="https://fitsmallbusiness.com/wp-content/uploads/2020/12/FeatureImage_POS_Apps.jpg"
