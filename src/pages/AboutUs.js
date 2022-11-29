@@ -69,7 +69,7 @@ const AboutUs = () => {
 </div>
 <div class="card-group g-5">
   <div class="card ">
-    <img src="https://www.hbfuller.com/-/media/images/careers/teamwork-diverstiy-mission-and-culture.jpg" class="card-img-top"data-aos="fade-right" data-aos-duration="1000"  alt="..."/>
+    <img src="https://www.hbfuller.com/-/media/images/careers/teamwork-diverstiy-mission-and-culture.jpg" class="card-img-top"  data-aos="fade-down" data-aos-duration="1000" alt="..."/>
     <div class="card-body">
       <h2 class="card-title">OUR MISSION</h2>
       <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
@@ -77,7 +77,7 @@ const AboutUs = () => {
     </div>
   </div>
   <div class="card ">
-    <img src="https://www.autonet.com.ng/images/mission.jpg" class="card-img-top"data-aos="fade-left" data-aos-duration="1000" alt="..."/>
+    <img src="https://www.autonet.com.ng/images/mission.jpg" class="card-img-top" data-aos="fade-up" data-aos-duration="1000" alt="..."/>
     <div class="card-body">
       <h2 class="card-title">OUR VISION</h2>
       <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
