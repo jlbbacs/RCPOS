@@ -14,7 +14,7 @@ const Features = () => {
   return (
 
     <>
-     <h1 className='features-text'>Features</h1> 
+     <h3 className='features-text'>Features</h3> 
      <div className="col-sm-12 mt-4">{<Carousel/>}</div>
   
      </>

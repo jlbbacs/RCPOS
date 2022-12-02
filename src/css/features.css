@@ -3,7 +3,7 @@
 .features-text{
     margin-top: 8rem;
 }
-h1{
-    color: rgb(109, 172, 211);
+h3{
+    color: rgb(109, 172, 211)!important;
     font-family: 'Montserrat', sans-serif;
 }
