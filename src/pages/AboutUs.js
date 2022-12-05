@@ -89,6 +89,41 @@ const AboutUs = () => {
 
 
 </div>
+
+
+<div class="card-group">
+
+  <div class="card">
+    <img src="https://thumbs.dreamstime.com/b/portrait-young-man-laughing-pointing-fingers-something-side-view-bearded-laugh-point-isolated-white-background-73879654.jpg" class="card-img-top" alt="..."/>
+    <div class="card-body">
+      <h5 class="card-title">Card title</h5>
+      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+    </div>
+    <div class="card-footer">
+
+    </div>
+  </div>
+  <div class="card">
+    <img src="https://thumbs.dreamstime.com/b/black-smiling-business-company-owner-black-smiling-business-company-owner-happy-confident-afro-american-executive-director-100056909.jpg" class="card-img-top" alt="..."/>
+    <div class="card-body">
+      <h5 class="card-title">Card title</h5>
+      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+    </div>
+    <div class="card-footer">
+
+    </div>
+  </div>
+  <div class="card">
+    <img src="https://assets.contenthub.wolterskluwer.com/api/public/content/3d4aeb0f1ca8447e8c42334c873893d2" class="card-img-top" alt="..."/>
+    <div class="card-body">
+      <h5 class="card-title">Card title</h5>
+      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+    </div>
+    <div class="card-footer">
+    
+    </div>
+  </div>
+</div>
 </div> 
 
 
