@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Fredoka+One&family=Monoton&family=Montserrat&family=Poppins:ital,wght@0,400;1,800&family=Raleway:wght@500&family=Roboto:wght@900&family=Rubik+Glitch&family=Yesteryear&display=swap');
 
 .about-Us{
     margin-top: 10rem;
@@ -14,4 +15,21 @@
 }
 #about-what-text{
     margin-top: -3rem;
+}
+.meet-team{
+    color: white;
+    letter-spacing: 0.5rem;
+    text-align: center!important;
+    padding: 4rem;
+    font-weight: bolder;
+    background-color:rgb(31, 116, 181) ;
+    font-family: 'Montserrat', sans-serif;
+
+}
+#mv-image{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    
+}
+#whatwedo{
+    color: rgb(109, 172, 211);
 }

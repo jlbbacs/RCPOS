@@ -17,14 +17,14 @@ const AboutUs = () => {
 
  
 <div class="card mb-3 mt-5">
-  <img src="https://www.goodbody.ie/images/default-source/blogs/investments/2021-investments/february-investments-2021/market-pulse-3-investments-goodbody-wide-feb21.jpg?sfvrsn=73bf9fd5_2" class="card-img-top" alt="..."/>
+  <img src="https://www.goodbody.ie/images/default-source/blogs/investments/2021-investments/february-investments-2021/market-pulse-3-investments-goodbody-wide-feb21.jpg?sfvrsn=73bf9fd5_2" class="card-img-top " alt="..."/>
   
   <div class="container">
 
   <div class="card-body" id="about-what-text">
-    <h4 class="card-title fw-bold">What we do</h4>
+    <h4 class="card-title fw-bold" id='whatwedo'>What we do</h4>
     <p class="card-text ">RCPOS innovative point of sale solution drives customer acquisition, increase average order size, and makes the dream of long-lasting, loyal customer relationships a reality.</p>
-   <p class="card-text">At Tagrain we set our ambition to have a positive impact on the lives of millions of small-scale retailers by increasing their income through operational efficiency.</p>
+   <p class="card-text">At RCPOS we set our ambition to have a positive impact on the lives of millions of small-scale retailers by increasing their income through operational efficiency.</p>
   </div>
   
 </div>
@@ -69,7 +69,7 @@ const AboutUs = () => {
 </div>
 <div class="card-group g-5">
   <div class="card ">
-    <img src="https://www.hbfuller.com/-/media/images/careers/teamwork-diverstiy-mission-and-culture.jpg" class="card-img-top"  data-aos="fade-down" data-aos-duration="1000" alt="..."/>
+    <img src="https://www.hbfuller.com/-/media/images/careers/teamwork-diverstiy-mission-and-culture.jpg" id='mv-image' class="card-img-top "  data-aos="fade-down" data-aos-duration="1000" alt="..."/>
     <div class="card-body">
       <h2 class="card-title">OUR MISSION</h2>
       <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
@@ -77,7 +77,7 @@ const AboutUs = () => {
     </div>
   </div>
   <div class="card ">
-    <img src="https://www.autonet.com.ng/images/mission.jpg" class="card-img-top" data-aos="fade-up" data-aos-duration="1000" alt="..."/>
+    <img src="https://www.autonet.com.ng/images/mission.jpg" id='mv-image' class="card-img-top  " data-aos="fade-up" data-aos-duration="1000" alt="..."/>
     <div class="card-body">
       <h2 class="card-title">OUR VISION</h2>
       <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
@@ -90,14 +90,18 @@ const AboutUs = () => {
 
 </div>
 
+<h1 className='meet-team ' >MEET THE TEAM</h1>
+
+
 
 <div class="card-group">
 
   <div class="card">
+
     <img src="https://thumbs.dreamstime.com/b/portrait-young-man-laughing-pointing-fingers-something-side-view-bearded-laugh-point-isolated-white-background-73879654.jpg" class="card-img-top" alt="..."/>
     <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      <h5 class="card-title">JUAN DELA CRUZ</h5>
+      <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do</p>
     </div>
     <div class="card-footer">
 
@@ -106,18 +110,18 @@ const AboutUs = () => {
   <div class="card">
     <img src="https://thumbs.dreamstime.com/b/black-smiling-business-company-owner-black-smiling-business-company-owner-happy-confident-afro-american-executive-director-100056909.jpg" class="card-img-top" alt="..."/>
     <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+      <h5 class="card-title">MANG KULAS</h5>
+      <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do</p>
     </div>
     <div class="card-footer">
 
     </div>
   </div>
   <div class="card">
-    <img src="https://assets.contenthub.wolterskluwer.com/api/public/content/3d4aeb0f1ca8447e8c42334c873893d2" class="card-img-top" alt="..."/>
+    <img src="https://thumbs.dreamstime.com/b/smiling-adult-man-holding-out-his-palms-portrait-showing-people-copyspace-isolated-background-32530023.jpg" class="card-img-top" alt="..."/>
     <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+      <h5 class="card-title">KOMANDER DAUT</h5>
+      <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do</p>
     </div>
     <div class="card-footer">
     
